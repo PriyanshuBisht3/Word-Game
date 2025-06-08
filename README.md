@@ -2,9 +2,9 @@
 
 A simple and interactive Word Guessing Game built using HTML, CSS, and JavaScript. The game challenges the player to guess a hidden word letter by letter, similar to Hangman.
 
-## 🖼️ Demo
+## 🖼️ Host
 
-![Game Screenshot](screenshot.png) <!-- Optional: Add a screenshot of the game UI -->
+https://priyanshubisht3.github.io/Word-Game/ 
 
 ## 🚀 Features
 
